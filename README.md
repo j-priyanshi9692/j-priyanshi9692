@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j-priyanshi9692
-- 👀 I’m interested in Java Springboot / React calls
+- 👀 I’m interested in Java Springboot / React profiles
 - 🌱I'm a fast learner and always believe in hard work :) 
 - 📫 Reach me on my email- maheshwari.priyanshi92@gmail.com
 
